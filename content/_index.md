@@ -1,15 +1,14 @@
 ---
-title: "Bolt"
-description: "Minimal blog theme for Hyas based on Bolt.css"
-date: 2020-04-17T12:18:10+00:00
-lastmod: 2020-04-17T12:18:10+00:00
-draft: false
-images: []
-seo:
-  title: "Bolt" # custom title (optional)
-  description: "" # custom description (recommended)
-  canonical: "" # custom canonical URL (optional)
-  noindex: false # false (default) or true
+title: "SCKad"
+
 ---
 
-Bolt is a minimal blog theme for Hyas based on [Bolt.css](https://boltcss.com/).
+# 🚧 Site Under Maintenance 🚧
+
+We are currently performing maintenance on our website to improve your experience. The site will be back online shortly.
+
+Thank you for your patience!
+
+---
+
+
